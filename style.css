@@ -1,0 +1,56 @@
+
+*{
+    color: #fff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #70543e;
+    background-repeat: repeat-x;
+}
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+    margin :0;  
+}
+
+.allexceptheader{
+    margin-left:0.5in ;
+    
+}
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+.section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+.section h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
+.section ul {
+    list-style: none;
+    padding-left: 0;
+}
+.section li {
+    margin-bottom: 10px;
+}
+
+.summary {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+.education li{
+  margin-bottom: 10px;
+}
+
+.skills li {
+    margin-bottom: 10px;
+}
